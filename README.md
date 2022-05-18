@@ -16,7 +16,6 @@
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. Uses moment.js.
 
-
 ## Installation
 
 Runs in browser.
@@ -29,7 +28,7 @@ SO THAT I can manage my time effectively
 
 ## Screenshot
 
-![image](Assets/screenshot.jpg)
+![image](assets_rev/day_planner_screenshot.jpg)
 
 ## Languages
 
